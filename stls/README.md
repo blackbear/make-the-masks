@@ -4,7 +4,7 @@ This directory contains STL files that can be fed into a slicer for 3D printing.
 
 |                                                              | Mask Type | Files            | Comments                                                     | Print Time |
 | ------------------------------------------------------------ | --------- | ---------------- | ------------------------------------------------------------ | ---------- |
-| ![](https://github.com/blackbear/make-the-masks/blob/master/images/texasfull.jpg?raw=true =100) | Texas     | Body<br />Filter | Slower to print than simple mask, but offers more airflow and will probably work better for oval N95 filters | 3h31m      |
+|<img src="https://github.com/blackbear/make-the-masks/blob/master/images/texasfull.jpg?raw=true" width="100"> | Texas     | Body<br />Filter | Slower to print than simple mask, but offers more airflow and will probably work better for oval N95 filters | 3h31m      |
 |                                                              |           |                  |                                                              |            |
 |                                                              |           |                  |                                                              |            |
 |                                                              |           |                  |                                                              |            |
