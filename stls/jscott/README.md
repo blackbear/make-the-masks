@@ -7,5 +7,5 @@ Notes on printing: The filter should be printed with the flange facing up. There
 
 - XL: 110%
 - L: 100%
+- ML: 95%
 - M: 90%
-- S: 80%
