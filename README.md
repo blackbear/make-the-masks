@@ -1,5 +1,17 @@
 # make-the-masks
-Repository of design files for Make the Mask and remixes
+<img src="https://static1.squarespace.com/static/5e79449be223500c15da852f/t/5e7cfb131341f13691c962cd/1586581770871/?format=1500w" width="300">
+
+Repository of design files for Make the Masks and remixes
+
+Welcome to the source repository for the Make the Masks effort. If you haven't yet, we encourage you to check out the main
+website at http://www.makethemasks.com/, and get in touch with a local coordinator in your area.
+
+STL files for printing the original Montana Mask and variants can be found [here](stls).
+
+CAD design files so that you can try modifying and improving the designs are [here](cad).
+
+If you are sending out masks, we suggest you include a copy of [this letter](documents/maskletter.docx) here, after you customize
+it without your contact information and change the section on filters as appropriate.
 
 >LEGAL DISCLAIMER: The 3D printed mask information presented here is intended to assist the general public during the 
 >current  global pandemic related to COVID-19 and the related nationwide shortage of personal protective equipment.  
