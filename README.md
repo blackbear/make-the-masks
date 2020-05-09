@@ -1,10 +1,14 @@
 # make-the-masks
+
 <img src="https://static1.squarespace.com/static/5e79449be223500c15da852f/t/5e7cfb131341f13691c962cd/1586581770871/?format=1500w" width="300">
+
+Mask Image:
+
+![texasfull](images/texasfull.thumb.jpg)
 
 Repository of design files for Make the Masks and remixes. The Montana Mask design files are available under the GNU General Public License v3.
 
-Welcome to the source repository for the Make the Masks effort. If you haven't yet, we encourage you to check out the main
-website at http://www.makethemasks.com/, and get in touch with a local coordinator in your area.
+Welcome to the source repository for the Make the Masks effort. If you haven't yet, we encourage you to check out the main website at http://www.makethemasks.com/, and get in touch with a local coordinator in your area.
 
 STL files for printing the original Montana Mask and variants can be found [here](stls).
 
