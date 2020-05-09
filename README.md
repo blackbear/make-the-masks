@@ -4,7 +4,7 @@
 
 Mask Image:
 
-![texasfull](images/texasfull.thumb.jpg)
+![montana](images/montana.png)
 
 Repository of design files for Make the Masks and remixes. The Montana Mask design files are available under the GNU General Public License v3.
 
