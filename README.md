@@ -14,8 +14,8 @@ STL files for printing the original Montana Mask and variants can be found [here
 
 CAD design files so that you can try modifying and improving the designs are [here](cad).
 
-If you are sending out masks, we suggest you include a copy of [this letter](https://github.com/blackbear/make-the-masks/blob/master/documents/maskletter.docx?raw=true) here, after you customize
-it without your contact information and change the section on filters as appropriate.
+If you are sending out masks, we suggest you include a copy of a letter from [here](documents), as appropriate, after you customize
+it without your contact information.
 
 >LEGAL DISCLAIMER: The 3D printed mask information presented here is intended to assist the general public during the 
 >current  global pandemic related to COVID-19 and the related nationwide shortage of personal protective equipment.  
